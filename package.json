@@ -1,0 +1,15 @@
+{
+  "name": "Weather for current location",
+  "version": "0.1.0",
+  "description": "Get weather for current IP based location",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Perttu Haliseva",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.3.3",
+    "request": "^2.69.0"
+  }
+}
