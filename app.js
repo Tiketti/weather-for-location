@@ -4,7 +4,7 @@ var Promise = require('bluebird');
 var latitude = '';
 var longitude = '';
 
-var api_key = '2e60a4d3571ff11bc79f09c06478a14b';
+var api_key = '<fill this>';
 
 getLocationByIP()
   .then(getWeatherByLatLong)
